@@ -13,7 +13,12 @@ Exercise to get the shortest path on flights between airports.
 	Request: 
 		> http://localhost:8081/shortestroute/route/get?origin=YYZ&destination=YVR
 	Response:
-		> {"code":"SHORTEST_ROUTE_001","msg":"Operation performed successfully.","response":["YYZ","IAH","BJX"],"error":false}
+		 {
+			"code":"SHORTEST_ROUTE_001",
+			"msg":"Operation performed successfully.",
+			"response":["YYZ", "IAH", "BJX"],
+			"error":false
+		  }
   
 ### Covered User Stories.
 
