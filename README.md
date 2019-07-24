@@ -1,4 +1,4 @@
-# Shortest Route Excercise 
+# Shortest Route Exercise 
 Exercise to get the shortest path on flights between airports.
 > NOTE: To run the project, be sure you have Maven and Java 8 installed and configured.
 
