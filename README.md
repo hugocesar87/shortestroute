@@ -10,7 +10,7 @@ Exercise to get the shortest path on flights between airports.
 
 ### Test App Example.
 	Request: 
-		> http://localhost:8081/shortestroute/route/get?origin=YYZ&destination=YVR
+		> http://localhost:8081/shortestroute/route/get?origin=YYZ&destination=BJX
 	Response:
 		 {
 			"code":"SHORTEST_ROUTE_001",
