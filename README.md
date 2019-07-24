@@ -3,7 +3,6 @@ Exercise to get the shortest path on flights between airports.
 > NOTE: To run the project, be sure you have Maven and Java 8 installed and configured.
 
 ### Project Execution.
-- Execute project.
 - Clone the project in your local repo.
 - Open console where the pom.xml is located.
 - Perform command "mvn spring-boot:run" to start the application. Application will start at port 8081.
